@@ -1,4 +1,4 @@
-/*Write a PHP program to find maximum number from the two numbers entered by user*/
+<!-- Write a PHP program to find maximum number from the two numbers entered by user -->
 
 <!DOCTYPE html>
 <html>
