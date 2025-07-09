@@ -1,3 +1,5 @@
+/* Write a PHP program to check whether the number entered is Positive / Negative or Zero entered by user. */
+
 <!DOCTYPE html>
 <html>
 
